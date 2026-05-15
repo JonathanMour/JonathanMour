@@ -4,10 +4,11 @@ Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos co
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
   
-</div>
-<a href="https://beacons.ai/JonathanMour">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<div align="center">
+  <a href="https://github.com/JonathanMour">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMour&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 <div> <a href="mailto:jonathanmoura2003@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
