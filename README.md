@@ -5,7 +5,6 @@ Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos co
 </div> 
   
   <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMour&layout=compact&theme=dracula"/>
 </div>
 <br>
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanMour&theme=dracula"/> 
