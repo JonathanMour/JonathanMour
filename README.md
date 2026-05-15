@@ -9,5 +9,10 @@ Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos co
 </div>
 <br>
 
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanMour&theme=dracula"/> </div> <div> <a href="mailto:jonathanmoura2003@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>  <a href="https://www.linkedin.com/in/jonathan-moura-6b678b267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanMour&theme=dracula"/> 
+</div>
+
+<div> <a href="mailto:jonathanmoura2003@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/jonathan-moura-6b678b267" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
