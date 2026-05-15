@@ -11,8 +11,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   ##
  
 <div> 
-  <a href = "mailto:jonathanmoura2003@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonathan-moura-6b678b267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:jonathanmoura2003@hotmail.com"> <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+</a>  <a href="https://www.linkedin.com/in/jonathan-moura-6b678b267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
 </div>
