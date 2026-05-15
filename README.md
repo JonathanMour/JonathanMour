@@ -10,7 +10,7 @@ Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos co
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
   
-
+##
 <div>
   <a href="mailto:jonathanmoura2003@hotmail.com"
         > <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> </a>
