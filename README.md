@@ -1,14 +1,14 @@
 Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos com Java
+
+<div 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula"/>
+
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
   
-<div 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula"/>
-
-</div>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanMour&theme=dracula"/>
 </div>
