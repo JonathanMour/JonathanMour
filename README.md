@@ -4,7 +4,7 @@ Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos co
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div> 
   
-<div align="center">
+<div 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMour&layout=compact&theme=dracula"/>
