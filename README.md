@@ -5,7 +5,7 @@ Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos co
 </div> 
   
 </div>
-
+<a href="https://beacons.ai/JonathanMour">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanMour&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
