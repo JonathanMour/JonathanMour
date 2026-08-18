@@ -1,4 +1,4 @@
-Oi! Eu sou o Jonathan Moura, Desenvolvedor Java Júnior | Java | Spring Boot | Rest
+Oi! Eu sou o Jonathan Moura, Desenvolvedor Java Júnior |Java | Spring Boot | REST API
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanMour&theme=dracula"/>
