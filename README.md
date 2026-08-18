@@ -1,4 +1,4 @@
-Oi! Eu sou o Jonathan Moura, estudante de programação e criador de projetos com Java
+Oi! Eu sou o Jonathan Moura, Desenvolvedor Java Júnior | Java | Spring Boot | Rest
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanMour&theme=dracula"/>
